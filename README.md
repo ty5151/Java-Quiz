@@ -1,4 +1,4 @@
-# Practical Quiz Platform 📝
+<img width="861" height="731" alt="image" src="https://github.com/user-attachments/assets/4a4eafbb-9784-444e-a78e-98295ce80caa" /># Practical Quiz Platform 📝
 
 A lightweight, offline desktop application built with Java Swing for creating, managing, and practicing custom quizzes. The project is designed with strict Object-Oriented Programming (OOP) principles, ensuring clean separation between data models, file-handling logic, and the Graphical User Interface.
 
@@ -28,4 +28,9 @@ A lightweight, offline desktop application built with Java Swing for creating, m
    cd quiz-platform
 <img width="852" height="738" alt="image" src="https://github.com/user-attachments/assets/0fc5e46d-6460-4567-9ea2-c33ee029416f" />
 <img width="852" height="735" alt="image" src="https://github.com/user-attachments/assets/9b817af9-a4b6-4113-a859-e0874f60b4bb" />
+<img width="855" height="732" alt="image" src="https://github.com/user-attachments/assets/fd5c13ed-06c6-4ca6-abf4-621148d16d4d" />
+<img width="852" height="727" alt="image" src="https://github.com/user-attachments/assets/68f4428c-b334-4dd9-9aa5-073992f1c8ca" />
+<img width="853" height="736" alt="image" src="https://github.com/user-attachments/assets/4e7f46ba-1fdd-48dd-8e9b-3221b5bbbf01" />
+<img width="861" height="731" alt="image" src="https://github.com/user-attachments/assets/ed834043-9d19-4097-9bdb-2fe9e461b295" />
+<img width="852" height="737" alt="image" src="https://github.com/user-attachments/assets/b7e8f7f0-9721-47df-bcc4-2b3e33a655e6" />
 
