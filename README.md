@@ -1,2 +1,28 @@
-# Java-Quiz
-A lightweight, object-oriented desktop application built in Java Swing for creating, managing, and taking custom quizzes. Features file-based persistence, countdown timers, visual post-quiz reviews, and a dynamic performance dashboard.
+# Practical Quiz Platform 📝
+
+A lightweight, offline desktop application built with Java Swing for creating, managing, and practicing custom quizzes. The project is designed with strict Object-Oriented Programming (OOP) principles, ensuring clean separation between data models, file-handling logic, and the Graphical User Interface.
+
+## ✨ Key Features
+
+* **Quiz Creation & Modification:** Create custom quizzes with unique names, specific time limits, and multiple-choice questions. Easily modify existing quizzes to update questions or options at any time.
+* **Persistent Storage:** Quizzes are automatically saved and loaded from a local `saved_quizzes.txt` file using a safe, custom delimiter (`;;;`) to prevent text-parsing errors.
+* **Practice Mode with Timer:** Take saved quizzes with a live digital countdown timer. Quizzes automatically submit when the time runs out.
+* **Post-Quiz Visual Review:** Instantly review your submission with visual feedback—correct answers are highlighted in green, and incorrect choices in red.
+* **Visual Performance Dashboard:** Track your session progress through a visual dashboard featuring aggregate statistics (Total Attempts, Average Score, Highest Score) and color-coded progress bars for recent attempts.
+
+## 🛠️ Architecture & Tech Stack
+
+* **Language:** Java (JDK 8 or higher)
+* **GUI Framework:** `javax.swing` and `java.awt`
+* **Storage:** Java I/O (`BufferedReader` / `BufferedWriter`) for flat-file storage.
+* **Design Pattern:** The codebase is split into three main areas:
+  1. **Data Models:** `Question`, `Quiz`, `QuizResult` (Encapsulation).
+  2. **Business Logic:** `QuizManager` handles state and file I/O operations (Separation of Concerns).
+  3. **View/GUI:** `QuizPlatform` handles dynamic Swing components and navigation.
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/quiz-platform.git](https://github.com/yourusername/quiz-platform.git)
+   cd quiz-platform
