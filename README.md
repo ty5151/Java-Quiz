@@ -2,7 +2,7 @@
 
 ### 1. The Core Idea
 
-For this project, I built a standalone desktop application using Java Swing that lets users create, manage, and take multiple-choice quizzes. Instead of building a basic console app, I wanted to create a fully graphical interface that feels like a real testing environment. It handles everything from creating new quizzes to timing the user during a test and giving them immediate visual feedback on their performance.
+For this project, I built a standalone desktop application using Java that lets users create, manage, and take multiple-choice quizzes. Instead of building a basic console app, I wanted to create a fully graphical interface that feels like a real testing environment. It handles everything from creating new quizzes to timing the user during a test and giving them immediate visual feedback on their performance.
 
 ### 2. How the Data is Stored (File Handling)
 
