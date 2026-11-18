@@ -26,3 +26,6 @@ A lightweight, offline desktop application built with Java Swing for creating, m
    ```bash
    git clone [https://github.com/yourusername/quiz-platform.git](https://github.com/yourusername/quiz-platform.git)
    cd quiz-platform
+<img width="852" height="738" alt="image" src="https://github.com/user-attachments/assets/0fc5e46d-6460-4567-9ea2-c33ee029416f" />
+<img width="852" height="735" alt="image" src="https://github.com/user-attachments/assets/9b817af9-a4b6-4113-a859-e0874f60b4bb" />
+
